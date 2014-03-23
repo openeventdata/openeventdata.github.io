@@ -1,0 +1,9 @@
+
+http://openeventdata.github.io/archive.html
+http://openeventdata.github.io/atom.xml
+http://openeventdata.github.io/categories.html
+http://openeventdata.github.io/index.html
+http://openeventdata.github.io/pages.html
+http://openeventdata.github.io/rss.xml
+http://openeventdata.github.io/sitemap.txt
+http://openeventdata.github.io/tags.html
