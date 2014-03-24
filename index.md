@@ -24,7 +24,8 @@ hope is that this box will allow others to easily replicate the same system we
 use to generate event data. This will allow others to examine, critique, and
 improve upon this system. 
 
-More information can be found at [http://openeventdata.github.io/eldiablo/]http://openeventdata.github.io/eldiablo/().
+More information can be found at
+[http://openeventdata.github.io/eldiablo/](http://openeventdata.github.io/eldiablo/).
 
 ###PETRARCH
 
@@ -53,7 +54,7 @@ finally to coded event data. In short, the pipeline is the glue that holds all
 of the various components together. 
 
 More information can be found at
-[https://github.com/openeventdata/phoenix_pipeline]https://github.com/openeventdata/phoenix_pipeline().
+[https://github.com/openeventdata/phoenix_pipeline](https://github.com/openeventdata/phoenix_pipeline).
 
     
 ##Posts
