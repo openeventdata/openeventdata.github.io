@@ -13,9 +13,7 @@ regarding the software tools is outlined below. Finally, information on event
 data more generally can be found on the [Computational Event Data System](http://eventdata.parusanalytics.com/)
 website.
 
-We turn news into events in a replicable, transparent manner using the [phoenix pipeline](https://github.com/openeventdata/phoenix_pipeline), which relies on a [scraper](https://github.com/openeventdata/scraper), and [TABARI](http://eventdata.parusanalytics.com/software.dir/tabari.html). We are currently working on a successor to TABARI called [PETRARCH](https://github.com/openeventdata/PETRARCH-Development). We are also working on making event data more accessible and transparent by providing virtual machines (via [Vagrant](http://www.vagrantup.com/)) with all the necessary software. You can find more information in each project's repository.
-
-##Software
+#Software
 
 ###EL:DIABLO
 
@@ -26,7 +24,8 @@ hope is that this box will allow others to easily replicate the same system we
 use to generate event data. This will allow others to examine, critique, and
 improve upon this system. 
 
-More information can be found at [http://openeventdata.github.io/eldiablo/]http://openeventdata.github.io/eldiablo/().
+More information can be found at
+[http://openeventdata.github.io/eldiablo/](http://openeventdata.github.io/eldiablo/).
 
 ###PETRARCH
 
@@ -55,7 +54,7 @@ finally to coded event data. In short, the pipeline is the glue that holds all
 of the various components together. 
 
 More information can be found at
-[https://github.com/openeventdata/phoenix_pipeline]https://github.com/openeventdata/phoenix_pipeline().
+[https://github.com/openeventdata/phoenix_pipeline](https://github.com/openeventdata/phoenix_pipeline).
 
     
 ##Posts
