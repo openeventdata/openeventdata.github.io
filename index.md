@@ -37,19 +37,24 @@ More information can be found at
 Or go straight to the [repository](http://openeventdata.github.io/eldiablo/).
 
 
-###Scraper
+###[Scraper](http://oeda-scraper.readthedocs.org/en/latest/)
 
 We make use of a web scraper with a whitelist of RSS feeds to pull news stories
 from ~160 unique websites. These scraped stories are stored in a MongoDB
 database for easy future retrieval. 
 
-More information can be found at [https://github.com/openeventdata/scraper](https://github.com/openeventdata/scraper).
+More information can be found at
+[https://github.com/openeventdata/scraper](https://github.com/openeventdata/scraper)
+with documentation at
+[http://oeda-scraper.readthedocs.org/en/latest/](http://oeda-scraper.readthedocs.org/en/latest/).
 
-###Pipeline
+###[Pipeline](http://phoenix-pipeline.readthedocs.org/en/latest/)
 
 The pipeline is what moves from the web scraper, through the event coder, and
 finally to coded event data. In short, the pipeline is the glue that holds all
 of the various components together. 
 
 More information can be found at
-[https://github.com/openeventdata/phoenix_pipeline](https://github.com/openeventdata/phoenix_pipeline).
+[https://github.com/openeventdata/phoenix_pipeline](https://github.com/openeventdata/phoenix_pipeline)
+with documentation at
+[http://phoenix-pipeline.readthedocs.org/en/latest/](http://phoenix-pipeline.readthedocs.org/en/latest/).
