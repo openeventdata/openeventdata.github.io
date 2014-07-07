@@ -58,3 +58,8 @@ More information can be found at
 [https://github.com/openeventdata/phoenix_pipeline](https://github.com/openeventdata/phoenix_pipeline)
 with documentation at
 [http://phoenix-pipeline.readthedocs.org/en/latest/](http://phoenix-pipeline.readthedocs.org/en/latest/).
+
+#Acknowledgements
+
+Thanks to [Josh Stevens](http://www.joshuastevens.net/) for creating the
+[EL:DIABLO](https://github.com/openeventdata/eldiablo) logo.
