@@ -14,7 +14,7 @@ website.
 
 #Software
 
-###PETRARCH
+###[PETRARCH](http://petrarch.readthedocs.org/en/latest/)
 
 PETRARCH is the Python-language successor to the
 [TABARI](http://eventdata.parusanalytics.com/software.dir/tabari.html) event
@@ -24,7 +24,9 @@ full parse allows for more accurate event coding. PETRARCH is currently under
 active development, and we aim for a full release in the summer of 2014.
 
 More information can be found at
-[https://github.com/openeventdata/PETRARCH-Development](https://github.com/openeventdata/PETRARCH-Development).
+[https://github.com/openeventdata/PETRARCH-Development](https://github.com/openeventdata/PETRARCH-Development) 
+with documentation at
+[http://petrarch.readthedocs.org/en/latest/](http://petrarch.readthedocs.org/en/latest/).
 
 ###[EL:DIABLO](http://openeventdata.github.io/eldiablo/)
 
@@ -63,3 +65,14 @@ with documentation at
 
 Thanks to [Josh Stevens](http://www.joshuastevens.net/) for creating the
 [EL:DIABLO](https://github.com/openeventdata/eldiablo) logo.
+
+Work by Philip Schrodt was partially supported by the National Science
+Foundation Political Science and Methods, Measurements and Statistics programs,
+Grant SES-1259190.
+
+Work by John Beieler and Muhammed Idris was partially supported by National
+Science Foundation under IGERT Award #DGE-1144860, Big Data Social Science, and
+Pennsylvania State University. 
+
+Much of this work has been, and continues to be, supported by
+[Caerus Associates](caerusassociates.com) in one form or another.
